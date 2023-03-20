@@ -1,0 +1,16 @@
+register.username.error=用户名必须3-8个字符的长度
+register.password.error=密码不能低于6个字符的长度
+register.usercardno.format=身份证必须18位数字
+
+七月份：
+
+ssm-auctions
+连续删除 还没解决
+
+
+ssm-items
+更新商品功能 还没解决
+
+重写OA项目
+
+八月份：
